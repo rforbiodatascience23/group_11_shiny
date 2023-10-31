@@ -4,6 +4,6 @@
 #'     DO NOT REMOVE.
 #' @import shiny
 #' @noRd
-app_server <- function(input, output, session) {
+app_server <- function(input, output, session) {mod_plottingmodule_server("plottingmodule_1")
   # Your application server logic
 }
